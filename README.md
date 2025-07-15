@@ -35,10 +35,9 @@ Generate your API key. Keep this key safe and private!
 3. Clone the Project
 Open your terminal or command prompt and run:
 
-git clone https://github.com/your-username/your-recommender-repo.git
-cd your-recommender-repo
+git clone https://github.com/tousifT5/Game_Recommender.git
+cd Game_Recommender
 
-(Replace https://github.com/your-username/your-recommender-repo.git with the actual URL of your GitHub repository)
 
 4. Set Up a Virtual Environment (Recommended)
 It's good practice to create a virtual environment to keep your project's dependencies separate:
