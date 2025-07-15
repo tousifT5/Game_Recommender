@@ -36,6 +36,7 @@ Generate your API key. Keep this key safe and private!
 Open your terminal or command prompt and run:
 
 git clone https://github.com/tousifT5/Game_Recommender.git
+
 cd Game_Recommender
 
 
