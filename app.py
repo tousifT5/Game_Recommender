@@ -95,7 +95,7 @@ if selected_game and button:
     recommended_games = data.iloc[recommended_index]["Title"].values
     for game_title in recommended_games:
         # poster = get_poster(game)
-        with st.container(height=None):
+        with st.container():
             st.title(game_title)
             st.image(get_poster_path(game_title),width=750)
         time.sleep(0.2)
